@@ -123,7 +123,7 @@ In a production app with multiple users, I'd replace this with a REST API or Gra
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone <https://github.com/manojrb22/task-board.git>
 cd task-board
 
 # Install dependencies
