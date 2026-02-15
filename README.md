@@ -203,7 +203,7 @@ vercel
 This ensures all routes redirect to index.html so React Router can handle navigation.
 
 ### Live Demo
-🔗 [Deployment Link Placeholder]
+🔗 **[https://task-board-gamma-henna.vercel.app](https://task-board-gamma-henna.vercel.app)**
 
 ---
 
